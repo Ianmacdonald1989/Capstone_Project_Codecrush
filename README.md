@@ -53,7 +53,7 @@ CodeCrush plans to extend its features with:
 To run the CodeCrush project locally, follow these steps:
 ## Step 1
 Clone the repository:
-git clone https://github.com/ianmacdonald1989/CodeCrush.git
+git clone https://github.com/ianmacdonald1989/Capstone_project_Codecrush.git
 ## Step 2
 Navigate to the project directory: cd CodeCrush
 ## Step 3
